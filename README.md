@@ -30,12 +30,6 @@ The data includes:
 
 ---
 
-### images/
-
-This folder contains screenshots showing the mapping results.
-
----
-
 # Results
 
 ## Map Before Parameter Tuning
