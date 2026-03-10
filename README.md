@@ -42,7 +42,7 @@ This folder contains screenshots showing the mapping results.
 
 The initial map generated from laser scan data before tuning parameters.
 
-![Before Tuning](images/before_tuning.png)
+![Before Tuning](Front_laser_scan.png)
 
 Characteristics:
 
