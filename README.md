@@ -105,7 +105,7 @@ Laser scan mapping is widely used in:
 
 # Conclusion
 
-The experiment shows that **proper parameter tuning plays a crucial role in LiDAR-based mapping**.
+The experiment shows that **proper parameter tuning plays a crucial role in Laser-based mapping**.
 
 Without tuning, maps can contain distortions and noise.  
 After tuning the parameters, the generated map becomes significantly **clearer, more accurate, and better aligned with the environment structure**.
