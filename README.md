@@ -112,6 +112,18 @@ After tuning the parameters, the generated map becomes significantly **clearer, 
 
 ---
 
+## Tools & Environment
+
+The project was developed and tested using the following environment:
+
+- Ubuntu 20.04
+- ROS (Robot Operating System)
+- C++
+- RViz (visualization)
+- LiDAR sensor data
+- ROS packages for laser scan processing
+---
+
 # Author
 
 Bhagyath Badduri  
