@@ -1,4 +1,4 @@
-# 2D LiDAR SLAM using GMapping (ROS) for Indoor Occupancy Grid Mapping
+# 2D Laser-Based SLAM using GMapping in ROS for Indoor Mapping
 
 This project implements a **laser-based SLAM system using the GMapping algorithm in ROS** to generate a 2D occupancy grid map of an indoor environment.
 
