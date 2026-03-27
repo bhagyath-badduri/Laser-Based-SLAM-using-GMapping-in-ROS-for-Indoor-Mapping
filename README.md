@@ -36,7 +36,7 @@ The dataset consists of recorded sensor data provided as CSV files and converted
 - Data was published to ROS topics
 - Static transforms were defined between robot frames and sensors
 
-👉 The SLAM implementation uses **only front-facing LiDAR data** for consistent mapping performance :contentReference[oaicite:1]{index=1}  
+ The SLAM implementation uses **only front-facing LiDAR data** for consistent mapping performance :contentReference[oaicite:1]{index=1}  
 
 ---
 
@@ -69,7 +69,7 @@ This map is generated using **default GMapping parameters**.
 - Reduced scan overlap between consecutive frames
 - Accumulated pose drift over long trajectories
 
-👉 These effects occur due to:
+ These effects occur due to:
 - limited update frequency
 - odometry noise
 - insufficient scan alignment
@@ -94,7 +94,7 @@ This map is generated after tuning SLAM parameters.
 - Better scan overlap between consecutive measurements
 - More stable and consistent pose estimation
 
-👉 Increasing update frequency allows:
+ Increasing update frequency allows:
 - more frequent corrections
 - improved scan matching
 - reduced drift
@@ -180,7 +180,7 @@ This project demonstrates that **parameter tuning plays a critical role in SLAM 
   - more accurate
   - structurally consistent
 
-👉 Even without changing the algorithm, **proper parameter selection greatly improves mapping quality**
+ Even without changing the algorithm, **proper parameter selection greatly improves mapping quality**
 
 ---
 
